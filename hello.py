@@ -1,0 +1,1 @@
+print('Getting stated with Flask')
